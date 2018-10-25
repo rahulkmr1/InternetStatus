@@ -89,3 +89,4 @@ class MyIndicator:
 if __name__ == '__main__':
   indicator = MyIndicator();
   indicator.main();
+  print("Running...")
